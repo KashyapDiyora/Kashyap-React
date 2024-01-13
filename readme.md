@@ -20,4 +20,4 @@ console.log("this is a react js")
 ```
 
 [twitter](https://twitter.com)   <!-- link -->
-![altenative text]("https://images.pexels.com/photos/326900/pexels-photo-326900.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500")
+![altenative text](https://images.pexels.com/photos/326900/pexels-photo-326900.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
